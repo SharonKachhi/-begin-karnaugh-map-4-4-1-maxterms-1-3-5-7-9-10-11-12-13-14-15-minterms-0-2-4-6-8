@@ -1,0 +1,1 @@
+# -begin-karnaugh-map-4-4-1-maxterms-1-3-5-7-9-10-11-12-13-14-15-minterms-0-2-4-6-8
